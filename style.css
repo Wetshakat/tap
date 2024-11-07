@@ -1,0 +1,102 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    overflow: hidden;
+}
+
+.header{
+    margin: 10px;
+    padding: 25px;
+    justify-content: center;
+    color: rgb(237, 223, 21);
+    border: 5px;
+    justify-items: center;
+    text-align: center;
+    font-size: 3em;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    behavior: "slide";
+
+}
+/* .h1{
+    margin-left: 500px;
+    text-justify: auto;
+    justify-content: center;
+} */
+.h4{
+    padding: 10px;
+    justify-content: center;
+    color: rgb(5, 5, 5);
+   justify-items: center;
+    border: 10px;
+    border-color: solid black;
+    border-radius: 10px;
+    font-size:2em;
+    justify-self: center;
+    width: 50%;
+    background-color: white;
+    align-items: center;
+}
+.table{
+    color: rgb(29, 9, 128);
+    border-color: blue;
+    border: 5px;
+    background-color: rgb(237, 223, 21);
+    width: 60%;
+    justify-content: center;
+    justify-items: center;
+    padding: 30px;
+    justify-self: center;
+    justify-content: space-between;
+    border-radius: 12px;
+    margin-top: 60px;
+    
+}
+
+.body {
+    background-image: url('/pngwing.com\ \(11\).png');
+    background-size: 100;        
+    background-position: center;    
+    background-repeat: no-repeat; 
+    background-color: rgb(2, 33, 8);
+        width: auto;
+        height: auto; 
+  }
+  
+.record{
+    width:auto;
+    display: flex;
+    flex-direction: column;
+    background-color: yellow;
+    padding: 20px;
+    justify-content: center;
+    justify-items: center;
+    margin-top: 180px;
+ font-size: larger;
+  
+}
+.footer{
+    justify-content: center;
+    justify-items: center;
+    font-size: medium;
+    font-style: italic;
+    padding: 10px;
+    background-color: yellow;
+}
+.snrman{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    padding: 10px;
+    justify-items: center;
+    justify-content: center;
+}
+.placeholder{
+    width: 250px;
+    height: 20px;
+}
+.btn{
+    width: 150px;
+    height: 20px;
+}
